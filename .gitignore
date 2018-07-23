@@ -13,6 +13,19 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-Content
+Content/Animations
+Content/Characters
+Content/Effects
+Content/Collections
+Content/Developers
+Content/Effects
+Content/Environment
+Content/Maps
+Content/Movies
+Content/Slate
+Content/Sounds
+Content/UI
+Content/Weapons
 
 DerivedDataCache
+
