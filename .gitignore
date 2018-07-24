@@ -27,8 +27,11 @@ Content/Sounds
 Content/UI
 Content/Weapons
 Content/InfinityBladeGrassLands
+<<<<<<< HEAD
 Content/SoulCave
 Content/BladeEffects
+=======
+>>>>>>> b3b7bd78cc4323ffa42c10408bfb10a0df5f155f
 
 DerivedDataCache
 
